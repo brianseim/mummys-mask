@@ -1,9 +1,11 @@
 ---
-title: Mummy's Mask
-tags: [home, index]
+title: BSDM Portal
+tags:
+  - home
+  - index
 ---
 
-# Mummy's Mask — Home Campaign 2
+# BSDM Campaigns Portal
 
 Welcome to the Mummy's Mask campaign wiki.
 
