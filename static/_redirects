@@ -1,1 +1,1 @@
-# Root redirects to BSDM index — handled natively by index.md
+/ /index 301
