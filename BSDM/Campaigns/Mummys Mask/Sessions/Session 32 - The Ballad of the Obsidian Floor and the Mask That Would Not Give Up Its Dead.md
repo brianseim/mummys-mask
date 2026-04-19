@@ -1,4 +1,4 @@
-# *The Ballad of the Obsidian Floor and the Mask That Would Not Give Up Its Dead*
+March 21, 2026
 ### *As told by a wandering bard at the Inn of the Desert Winds, [[Tephu]], nursing her third cup of mint tea*
 
 ---

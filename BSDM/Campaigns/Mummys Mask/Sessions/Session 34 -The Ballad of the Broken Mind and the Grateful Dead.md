@@ -1,8 +1,4 @@
-Here is the bardic tale with all people and place references converted to Obsidian-style MD links:
-
----
-
-# *The Ballad of the Broken Mind and the Grateful Dead*
+April 18, 2026 
 ### *As told by a wandering bard at the Inn of the Desert Winds, [[Tephu]]*
 
 ---

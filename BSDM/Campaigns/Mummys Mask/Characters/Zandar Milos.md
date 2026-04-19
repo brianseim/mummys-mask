@@ -1,6 +1,11 @@
 ---
 title: Zandar Milos
-tags: [character, mummys-mask, pc]
+tags:
+  - character
+  - mummys-mask
+  - pc
+aliases:
+  - Zandar
 ---
 
 # Zandar Milos

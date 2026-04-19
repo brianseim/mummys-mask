@@ -1,4 +1,4 @@
-# *The Ballad of the Twice-Dead and the Bat That Would Not Let Go*
+April 4, 2026
 ### *As told by a wandering bard at the Inn of the Desert Winds, [[Tephu]], to anyone who will listen*
 
 ---

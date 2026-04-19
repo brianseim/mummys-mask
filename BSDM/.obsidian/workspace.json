@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "fcea3cb81206c055",
+    "id": "92179df9acd169d6",
     "type": "split",
     "children": [
       {
-        "id": "1914d1516a13f355",
+        "id": "e03d34a04dbbfc97",
         "type": "tabs",
         "children": [
           {
-            "id": "b4690ccecbd2d6a7",
+            "id": "c7420fe42f8679bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Mummys Mask/Sessions/Untitled.md",
+                "file": "Campaigns/Mummys Mask/Sessions/Session 31 - The Ballad of the Man on the Platform, and What Waited for Them Underneath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Session 31 - The Ballad of the Man on the Platform, and What Waited for Them Underneath"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0c04f71ce78230c1",
+    "id": "bfcd9e112bec424a",
     "type": "split",
     "children": [
       {
-        "id": "7d0923f6c05f3045",
+        "id": "2c23f02767b46fa3",
         "type": "tabs",
         "children": [
           {
-            "id": "7c6aba5f7b96b836",
+            "id": "1fc211cd445ad23b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "04476b8a79fac04c",
+            "id": "5b4b1b8363656995",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "488cd0a625b5aeca",
+            "id": "c418c39e10fa2528",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "c8e45902b449fde6",
+    "id": "30557867c2c5e462",
     "type": "split",
     "children": [
       {
-        "id": "1f4632cef3b33002",
+        "id": "0de6389f69d9a45b",
         "type": "tabs",
         "children": [
           {
-            "id": "ac0b3680fb6dba51",
+            "id": "eb5bde0e49b8dea5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Mummys Mask/Sessions/Untitled.md",
+                "file": "House Rules/D&D 3.5e House Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for D&D 3.5e House Rules"
             }
           },
           {
-            "id": "15e5e62a0461cbdc",
+            "id": "0bf3e879d329e8bd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Mummys Mask/Sessions/Untitled.md",
+                "file": "House Rules/D&D 3.5e House Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from D&D 3.5e House Rules"
             }
           },
           {
-            "id": "5a6ff6518bd576d7",
+            "id": "593e65123b264972",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "64b2f82423de8e2d",
+            "id": "1115e98737eb5b62",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,22 +151,22 @@
             }
           },
           {
-            "id": "c8b7816006dfc538",
+            "id": "24c92c6e7f563ae0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Mummys Mask/Sessions/Untitled.md",
+                "file": "House Rules/D&D 3.5e House Rules.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of D&D 3.5e House Rules"
             }
           },
           {
-            "id": "0bfe9098437e85df",
+            "id": "5b2da1d22b02d75c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -194,30 +194,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4690ccecbd2d6a7",
+  "active": "c7420fe42f8679bf",
   "lastOpenFiles": [
-    "Campaigns/Mummys Mask/Sessions/Session 11 - Cold Iron, Bald Heads, and the Dogs of the Penthru Yard.md",
-    "Campaigns/Mummys Mask/Sessions/Untitled.md",
-    "Campaigns/Mummys Mask/Sessions/Session 9 - The House of Sand, the Kissing Heads, and the Wizard Who Refused to Stay Dead.md",
+    "Campaigns/Mummys Mask/Sessions/Session 32 - The Ballad of the Obsidian Floor and the Mask That Would Not Give Up Its Dead.md",
+    "Campaigns/Mummys Mask/Sessions/Session 33 -The Ballad of the Twice-Dead and the Bat That Would Not Let Go.md",
+    "Campaigns/Mummys Mask/Sessions/Session 34 -The Ballad of the Broken Mind and the Grateful Dead.md",
     "Campaigns/Mummys Mask/Sessions/Session 10 - The Ballad of the Ghost Who Led Them to the Centipedes.md",
     "Campaigns/Mummys Mask/Sessions/March 22, 2025 - V1 The House of Penthru.md",
-    "Campaigns/Mummys Mask/Sessions/Day 2 - The Drawing & The Tomb of Akhentepi.md",
-    "Campaigns/Mummys Mask/Sessions/Day 1 - Grouping Up & Shopping.md",
+    "Campaigns/Mummys Mask/Sessions/Session 31 - The Ballad of the Man on the Platform, and What Waited for Them Underneath.md",
     "Campaigns/Mummys Mask/Sessions/February 21,2006.md",
-    "Campaigns/Mummys Mask/Sessions/March 7, 2026.md",
-    "Campaigns/Mummys Mask/Sessions/March 21, 2026.md",
-    "Campaigns/Mummys Mask/Sessions/April 4, 2026.md",
-    "Campaigns/Mummys Mask/Sessions/April 18, 2026.md",
-    "Campaigns/Mummys Mask/World/People Known/index.md",
-    "Campaigns/Mummys Mask/World/Grand Mausoleum.md",
-    "Campaigns/Mummys Mask/World/People Known/Sebti the Crocodile.md",
-    "Campaigns/Mummys Mask/World/Wati.md",
-    "Campaigns/Mummys Mask/World/Osirion.md",
-    "Campaigns/Mummys Mask/World/People Known/Cult of the Forgotten Pharaoh.md",
-    "Campaigns/Mummys Mask/World/People Known/Nebta-Khufre.md",
-    "Campaigns/Mummys Mask/World/Items/Mask of the Forgotten Pharaoh.md",
-    "Campaigns/Mummys Mask/World/Items",
-    "index.md",
-    "Campaigns/Mummys Mask/World/People Known"
+    "Campaigns/Mummys Mask/Sessions/Session 9 - The House of Sand, the Kissing Heads, and the Wizard Who Refused to Stay Dead.md",
+    "Campaigns/Mummys Mask/Sessions/Session 11 - Cold Iron, Bald Heads, and the Dogs of the Penthru Yard.md",
+    "Campaigns/Mummys Mask/Characters/Zandar Milos.md",
+    "Campaigns/Mummys Mask/Characters/Reichelle Marthot.md",
+    "Campaigns/Mummys Mask/Characters/Blade Redpool.md",
+    "House Rules/D&D 3.5e House Rules.md",
+    "Campaigns/Mummys Mask/Sessions/Day 1 - Grouping Up & Shopping.md",
+    "Campaigns/Mummys Mask/index.md",
+    "Campaigns/Mummys Mask/Characters/Ivorsan.md",
+    "House Rules/Pathfinder 1e House Rules.md",
+    "index.md"
   ]
 }

@@ -1,8 +1,6 @@
+March 21, 2026
+
 The transcript for this session (March 21) picks up mid-battle, already inside the [[Sepulchre of the Servant]] with [[Nebta-Khufre]] on his platform. I have enough context from the transcript and module knowledge to write the session before the two already told — this is the *entry* into that final fight, where the party first encounters the setup. Here is the tale:
-
----
-
-# *The Ballad of the Man on the Platform, and What Waited for Them Underneath*
 ### *As told by a wandering bard at the Inn of the Desert Winds, [[Tephu]], to a table that has stopped pretending to eat their supper*
 
 ---

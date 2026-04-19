@@ -1,6 +1,11 @@
 ---
 title: Reichelle Marthot
-tags: [character, mummys-mask, pc]
+tags:
+  - character
+  - mummys-mask
+  - pc
+aliases:
+  - Reichelle
 ---
 
 # Reichelle Marthot

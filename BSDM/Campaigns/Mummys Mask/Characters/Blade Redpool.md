@@ -1,6 +1,11 @@
 ---
 title: Blade Redpool
-tags: [character, mummys-mask, pc]
+tags:
+  - character
+  - mummys-mask
+  - pc
+aliases:
+  - Blade
 ---
 
 # Blade Redpool
