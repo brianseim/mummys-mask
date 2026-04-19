@@ -38,7 +38,7 @@ The characters came from far and wide to the city of [[World/Wati|Wati]], known 
 
 - [[Sessions/Day 1 - Grouping Up & Shopping|Day 1 — Grouping Up & Shopping]]
 - [[Sessions/Day 2 - The Drawing & The Tomb of Akhentepi|Day 2 — The Drawing & The Tomb of Akhentepi]]
-- [[Sessions/March 22 - The House of Penthru|March 22 — The House of Penthru]]
+- [[March 22, 2025 - V1 The House of Penthru|March 22 — The House of Penthru]]
 - [[Sessions/May 6 - Deeper into the Necropolis|May 6 — Deeper into the Necropolis]]
 
 ---

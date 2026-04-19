@@ -1,6 +1,10 @@
 ---
 title: Osirion
-tags: [world, mummys-mask, location]
+tags:
+  - world
+  - mummys-mask
+  - location
+  - country
 ---
 
 # Osirion
